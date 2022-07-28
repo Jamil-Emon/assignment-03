@@ -1,0 +1,42 @@
+button.btn.btn-outline-success {
+    color: white;
+}
+
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin: auto;
+    letter-spacing: 1px;
+}
+
+.discovertext {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.moreBtn {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+div#accordionExample {
+    width: 40rem;
+    margin: 50px auto;
+    margin-top: 20px;
+}
+
+.footerText {
+    text-align: center;
+    background: #242424;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.fbicon {
+    font-size: 35px;
+    margin-left: 20px;
+}
