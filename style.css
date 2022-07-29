@@ -41,6 +41,10 @@ div#accordionExample {
     margin-left: 20px;
 }
 
+.text-center1 {
+    display: center;
+}
+
 @media only screen and (max-width:600px) {
 
     .flex {
@@ -48,6 +52,10 @@ div#accordionExample {
     }
 
     .banner {
+        visibility: hidden
+    }
+
+    .text-center1 {
         visibility: hidden
     }
 
